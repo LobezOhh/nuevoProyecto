@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">nuevoProyecto</string>
+    <string name="digite_su_empresa">Digite su Empresa</string>
+    <string name="empresa">Empresa</string>
+    <string name="digite_su_contrase_a">Digite su Contraseña</string>
+    <string name="digite_su_usuario">Digite su Usuario</string>
+    <string name="login">Login</string>
+    <string name="entrar">Entrar</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu contraseña?</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="usuario">Usuario</string>
+</resources>
+<string name="Login">nuevoProyecto</string>
